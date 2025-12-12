@@ -1,8 +1,6 @@
 # Sovereign Layer 1 Blockchain Prototype
 **Empowering RWAs, Identity, and DePIN**
 
-![Architecture Diagram](C:/Users/spars/.gemini/antigravity/brain/c76cc226-823f-4042-b9d2-ae66aa75c321/architecture_diagram_1765568734016.png)
-
 ## Overview
 This project is a custom Layer 1 blockchain built from first principles in TypeScript. It is designed to solve three critical infrastructure problems:
 1.  **Stablecoins**: Protocol-level compliance.
@@ -87,7 +85,6 @@ npx ts-node src/simulation/metrics-test.ts
 ## Demo Visuals
 *Visualization of the terminal output for a successful DePIN Reward cycle:*
 
-![Terminal Demo Mockup](C:/Users/spars/.gemini/antigravity/brain/c76cc226-823f-4042-b9d2-ae66aa75c321/terminal_demo_mockup_1765568751038.png)
-
 ## License
 MIT - Open Source Infrastructure Prototype
+
