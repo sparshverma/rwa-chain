@@ -85,6 +85,4 @@ npx ts-node src/simulation/metrics-test.ts
 ## Demo Visuals
 *Visualization of the terminal output for a successful DePIN Reward cycle:*
 
-## License
-MIT - Open Source Infrastructure Prototype
 
